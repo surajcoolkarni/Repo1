@@ -1,0 +1,38 @@
+GIT BASIC COMMANDS
+
+------------------------------------------------------------
+1) Create the folder in anywhere
+
+2) GO TO that folder right click and open git bash here
+
+3) It will Open git command promt
+
+4) Type --> git init 
+			for inni==itilizing git 
+
+5) Type --> git status  --> for checking status
+
+6) Type --> git add foldername or filename
+
+7) git status
+
+8) git commit -m "YOUR COMMITING MESSAGE"
+
+		IF THIS  COMMANDS GIVE AN eRROR THAT WHO YOU ARE THEN TYPE COLLOWING COOMANDS
+		
+		 git config --global user.email "suraj.kulkarni@quantiphi.com"
+		 
+		 git config --global user.name "username"
+		 
+		 then 
+		 
+		 git commit -m "YOUR COMMITING MESSAGE"
+
+9) To add your repository means where to add your source code
+
+		Type --> git remote add origin https://github.com/surajkulkarni123/Repo1.git --> this is git hub repository url
+
+
+10) TO PUSH 
+		Typ  --> git push -u origin master
+ 
