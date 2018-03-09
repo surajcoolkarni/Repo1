@@ -13,7 +13,9 @@ GIT BASIC COMMANDS
 5) Type --> git status  --> for checking status
 
 6) Type --> git add foldername or filename
-
+		
+			To Add All files --> git add . 
+	
 7) git status
 
 8) git commit -m "YOUR COMMITING MESSAGE"
@@ -35,4 +37,5 @@ GIT BASIC COMMANDS
 
 10) TO PUSH 
 		Typ  --> git push -u origin master
+		
  
