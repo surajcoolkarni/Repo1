@@ -1,5 +1,7 @@
 x = 100
-print("values of x => ",x)
+print("value of x => ",x)
+y = 200
+print("Value of y=>",y)
 
 
 
